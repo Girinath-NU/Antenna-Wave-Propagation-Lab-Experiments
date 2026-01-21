@@ -1,4 +1,4 @@
-- ### This MATLAB script computes and visualizes the far-field radiation pattern of a half-wave dipole antenna in both 2D (polar plot) and 3D.
+- ### This MATLAB script computes and visualizes the `far-field radiation pattern of a half-wave dipole antenna` in both 2D (polar plot) and 3D.
 - ### Below is a line-by-line, concept-by-concept explanation, linking the math to antenna theory.
 
 # Housekeeping Commands
